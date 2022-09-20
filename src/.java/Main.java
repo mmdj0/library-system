@@ -3,7 +3,7 @@ package Default;
 import java.time.Clock;
 import java.time.Duration;
 
-//Isil A - djehaiche maroua fella - delim mohammed amine 
+//Isil A 
 
 public class Main {
 	
