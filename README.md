@@ -1,2 +1,2 @@
 # library-system
-a library librarymanagement
+a library management system
